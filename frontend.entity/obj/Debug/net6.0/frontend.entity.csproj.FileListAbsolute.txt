@@ -1,0 +1,12 @@
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\bin\Debug\net6.0\frontend.entity.deps.json
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\bin\Debug\net6.0\frontend.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\bin\Debug\net6.0\frontend.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.AssemblyInfo.cs
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\refint\frontend.entity.dll
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\frontend.entity.pdb
+C:\Users\rusla\Documents\ProgramFile\AspNetCore\web\frontend.webui\frontend.entity\obj\Debug\net6.0\ref\frontend.entity.dll
